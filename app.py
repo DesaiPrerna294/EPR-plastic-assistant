@@ -146,6 +146,6 @@ if st.button("Ask") and question.strip():
             st.info("No API key found - showing retrieval-only mode.")
         st.subheader("Sources used")
         for i, score, txt in hits:
-            with st.expander(f"Clause {i + 1}  (match score {score:.2f})"):
+            with st.expander(f"Clause {i + 1}  (match score {score:.2f})", expanded=True):
                 st.write(txt)
     st.caption("General information only, not legal advice.")
