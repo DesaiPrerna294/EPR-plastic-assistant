@@ -1,0 +1,1031 @@
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 21
+M
+MINISTRY OF ENVIRONMENT, FOREST AND CLIMATE CHANGE
+NOTIFICATION
+
+New Delhi, the16th February, 2022
+
+G.S.R. 133(E).—In exercise of the powers conferred by sections 3, 6, and 25 of the Environment
+(Protection) Act 1986 (29 of 1986), the Central Government hereby makes the following rules further to amend the
+Plastic Waste Management Rules, 2016, namely: -
+
+
+
+1. (1) These rules may be called the Plastic Waste Management (Amendment) Rules, 2022.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+
+2. In the Plastic Waste Management Rules, 2016 (hereinafter referred to as the said rules), in rule 9, in sub-rule
+(1), for the words ―as per guidelines issued under these rules from time to time‖, the words ―as per guidelines
+specified in SCHEDULE – II‖ shall substituted.
+
+
+3. In the said rules, after SCHEDULE – I, the following Schedule shall be inserted namely:-
+„SCHEDULE-II
+[See Rule 9 (1)]
+Guidelines on Extended Producer Responsibility for Plastic Packaging
+
+1. Background:
+
+(1.1) The Ministry of Environment, Forest and Climate Change (MoEFCC), (hereinafter referred to as ‗The
+Ministry‘), notified the Plastic Waste Management Rules, 2016 on 18th March, 2016. The Ministry also notified the
+Solid Waste Management Rules, 2016 on 8th April, 2016. As plastic waste is part of solid waste, therefore, both the
+rules apply to managing plastic waste in the country.
+
+(1.2) The Plastic Waste Management Rules, 2016, mandate the generators of plastic waste to take steps to minimize
+generation of plastic waste, not to litter the plastic waste, ensure segregated storage of waste at source and hand over segregated waste in accordance with rules. The rules also mandate the responsibilities of local bodies, gram
+panchayats, waste generators, retailers and street vendors to manage plastic waste. 
+
+(1.3) The Plastic Waste
+Management Rules, 2016 cast Extended Producer Responsibility on Producer, Importer, and Brand Owner. Extended
+Producer Responsibility shall be applicable to both pre-consumer and post-consumer plastic packaging waste.
+
+(1.4) These guidelines provides framework for implementation of Extended Producer Responsibility. The Guidelines
+provide the roles and responsibilities of Producers, Importers, Brand Owners, Central Pollution Control Board, State Pollution Control Board or Pollution Control Committees, recyclers and waste processors for effective
+implementation of Extended Producer Responsibility. The definitions given in Plastic Waste Management Rules,
+2016, apply until, specifically mentioned in these guidelines;
+
+
+2. Date of Coming into Effect:
+These guidelines shall come into force with immediate effect. The on-going processes related to Extended Producer
+Responsibility obligations will be aligned with these guidelines.
+
+
+
+3. Definitions:
+
+(a) ―Biodegradable plastics‖ means that plastics, other than compostable plastics, which undergoes complete
+degradation by biological processes under ambient environment (terrestrial or in water) conditions, in specified time
+periods, without leaving any micro plastics, or visible, distinguishable or toxic residue, which have adverse
+environment impacts, adhering to laid down standards of Bureau of Indian Standards and certified by Central
+Pollution Control Board.
+
+(b) “Brand Owner” means a person or company who sells any commodity under a registered brand label or trade
+mark;
+
+(c) ―Carry Bags‖ (covered under Category II of plastic packaging – Clause (5.1) (II)) means bags made from plastic
+material or compostable plastic material, used for the purpose of carrying or dispensing commodities which have a self-carrying feature but do not include bags that constitute or form an integral part of the packaging in which goods
+are sealed prior to use ;
+
+(d) ―End of Life disposal‖ means using plastic waste for generation of energy and includes co-processing (e.g. in
+cement kilns) or waste to oil or for road construction as per Indian Road Congress guidelines, etc;
+
+(e) ―Extended Producer Responsibility‖ means the responsibility of a producer for the environmentally sound
+management of the product until the end of its life;
+
+(f) ―Importer‖ means a person who imports plastic packaging product or products with plastic packaging or carry
+bags or multilayered packaging or plastic sheets or like;
+
+(g) ―Plastic‖ means material which contains as an essential ingredient a high polymer such as polyethylene
+terephthalate, high density polyethylene, Vinyl, low density polyethylene, polypropylene, polystyrene resins, multimaterials like acrylonitrile butadiene styrene, polyphenylene oxide, polycarbonate, polybutylene terephthalate;
+
+(h) ―Plastic Packaging‖ means packaging material made by using plastics for protecting, preserving, storing and
+transporting of products in a variety of ways.
+
+(i) ―Plastic Sheet‖ means plastic sheet is the sheet made of plastic;
+
+(j) ―Plastic Waste Processors‖ means recyclers and entities engaged in using plastic waste for energy (waste to
+energy), and converting it to oil (waste to oil), industrial composting.
+
+(k) ―Pre-consumer plastic packaging waste‖ means plastic packaging waste generated in the form of reject or
+discard at the stage of manufacturing of plastic packaging and plastic packaging waste generated during the packaging
+of product including reject, discard, before the plastic packaging reaches the end-use consumer of the product.
+
+(l) ―Post-consumer plastic packaging waste” means plastic packaging waste generated by the end-use consumer
+after the intended use of packaging is completed and is no longer being used for its intended purpose.
+
+(m) ―Producer‖ means person engaged in manufacture or import of carry bags or multilayered packaging or plastic
+sheets or like, and includes industries or individuals using plastic sheets or like or covers made of plastic sheets or
+multilayered packaging for packaging or wrapping the commodity;
+
+(n) ―Recyclers‖ are entities who are engaged in the process of recycling of plastic waste;
+
+(o) "Recycling" means the process of transforming segregated plastic waste into a new product or raw material for
+producing new products;
+
+(p) ―Reuse‖ means using an object or resource material again for either the same purpose or another purpose without
+changing the object's structure;
+
+(q) ―Use of recycled plastic‖ means recycled plastic, instead of virgin plastic, is used as raw material in the
+manufacturing process;
+
+(r) ―Waste Management‖ means the collection, storage, transportation reduction, re-use, recovery, recycling,
+composting or disposal of plastic waste in an environmentally sound manner;
+
+(s) ―Waste to Energy‖ means using plastic waste for generation of energy and includes co-processing (e.g. in cement
+kilns).
+
+
+
+
+4. Obligated Entities:
+The following entities shall be covered under the Extended Producer Responsibility obligations and provisions of
+these guidelines namely: -
+
+(i) Producer (P) of plastic packaging;
+
+(ii) Importer (I) of all imported plastic packaging and / or plastic packaging of imported products;
+
+(iii) Brand Owners (BO) including online platforms/marketplaces and supermarkets/retail chains other
+than those, which are micro and small enterprises as per the criteria of Ministry of Micro, Small and
+Medium Enterprises, Government of India.;
+
+(iv) Plastic Waste Processors
+
+
+
+5. Coverage of Extended Producer Responsibility:
+
+(5.1) The following plastic packaging categories are covers under Extended Producer Responsibility:
+
+(i) Category I
+Rigid plastic packaging;
+
+(ii) Category II
+Flexible plastic packaging of single layer or multilayer (more than one layer with different types of plastic),
+plastic sheets or like and covers made of plastic sheet, carry bags, plastic sachet or pouches;
+
+(iii) Category III
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 23
+Multilayered plastic packaging (at least one layer of plastic and at least one layer of material other than plastic);
+
+(iv) Category IV
+Plastic sheet or like used for packaging as well as carry bags made of compostable plastics.
+
+(5.2) The Extended Producer Responsibility Guidelines covers the following with respect to plastic packaging namely: -
+(i) Reuse;
+(ii) Recycling;
+(iii) Use of recycled plastic content;
+(iv)End of life disposal.
+
+
+
+
+6. Registration:
+
+(6.1) (a)The following entities shall register on the centralized portal developed by Central Pollution Control Board namely: -
+(i) Producer (P);
+(ii) Importer (I);
+(iii) Brand owner (BO);
+(iv) Plastic Waste Processor engaged in (a) recycling, (b) waste to energy, (c) waste to oil, and (iv) industrial composting,
+
+(b) Registration of Producers, Importers & Brand-Owners (operating in one or two states) and Plastic Waste
+processors shall be done by State Pollution Control Board or Pollution Control Committee through the centralized
+Extended Producer Responsibility portal developed by Central Pollution Control Board.
+
+
+(c) After these guidelines have come into effect, with respect to, entities starting their business in a particular year and
+placing their products in market in that year, they shall have Extended Producer Responsibility target obligations from
+the next year.
+
+
+(6.2) The entities covered under clause 6.1 shall not carry any business without registration obtained through online centralized portal developed by Central Pollution Control Board.
+
+(6.3) The entities covered under clause (6.1) shall not deal with any entity not registered through on-line
+centralized portal developed by Central Pollution Control Board.
+
+(6.4) In case, it is found or determined that any entity registered on the on-line portal has provided false
+information or has willfully concealed information or there is any irregularity or deviation from the conditions
+stipulated while obtaining registration under Extended Producer Responsibility guidelines, then the registration of
+such an entity would be revoked for a one -year period after giving an opportunity to be heard. The entities whose
+registration has been revoked shall not be able to register afresh for the period of revocation.
+
+(6.5) In case any entity falls in more than one sub-category mentioned in the clause (6.1) then the entity shall
+register under each of those sub-categories separately. Further, in cases, where the entity has units in different states,
+in a particular sub-category mentioned in clause 6.1, then these units shall also be registered separately. However,
+only one registration under a sub category in a state would be needed, even if, more than one unit are located in a
+state. The registration shall be as per Standard Operating Procedure laid down by Central Pollution Control Board for
+the purpose, as per these Guidelines.
+
+(6.6) While registering, the entities shall have to provide PAN Number, GST Number, CIN Number of the company
+and Aadhar Number and PAN Number of authorized person or representative and any other necessary information as
+required.
+
+
+
+
+7. Targets for Extended Producer Responsibility and obligations of Producers, Importers & Brand-Owners:
+
+(7.1) The Extended Producer Responsibility targets for the Producers, Importers & Brand-Owners shall be
+determined category-wise.
+
+(7.2) Producer (P):
+
+(a) Extended Producer Responsibility target (Refer example 1 to 3 in Annexure):
+24 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+Eligible Quantity in MT (Q 1) shall be the average weight of plastic packaging material (category-wise) sold in the
+last two financial years (A) plus average quantity of pre-consumer plastic packaging waste in the last two financial
+years (B) minus the annual quantity (C) supplied to the entities covered under sub-clause 4 (iii) in the previous
+financial year as under: -
+
+Q 1 (in MT) = (A + B) -
+and the Extended Producer Responsibility target shall be determined category-wise , as given below
+Extended Producer Responsibility target
+Year Extended Producer Responsibility target
+(as a percentage of Q1 - category-wise)
+I
+2021 - 22 25 %
+II 2022 - 23 70 %
+III 2023 - 24 100 %
+The Extended Producer Responsibility target in MT category-wise, as applicable, shall be provided by Producer, as
+part of Action Plan on the centralized portal developed by Central Pollution Control Board.
+
+(b) Obligation for recycling (Refer example 1 to 3 in Annexure):
+The Producer shall ensure minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+collected under Extended Producer Responsibility Target, category-wise, as given below namely: -
+Minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+(% of Extended Producer Responsibility Target)
+Plastic packaging category 2024-25 2025-26 2026-27 2027-28 and onwards
+Category I 50 60 70 80
+Category II 30 40 50 60
+Category III 30 40 50 60
+Category IV 50 60 70 80
+In case of Category IV plastic packaging category (plastic sheet or like used for packaging and carry bags made of
+compostable plastics), the minimum level of recycling means processing plastic packaging waste for composting
+through industrial composting facilities.
+
+(c) End of life disposal (refer examples 1 to 3 in Annexure):
+
+(i) Only those plastics, which cannot be recycled will be sent for end of life disposal such as road construction, waste
+to energy, waste to oil, cement kilns (for co processing) etc. as per relevant guidelines issued by Indian Road Congress
+or Central Pollution Control Board from time to time.
+
+(ii) The producers shall ensure end of life disposal of the plastic packaging waste only through methodologies
+specified in Rule 5 (1) (b) of Plastic Waste Management Rules, 2016,
+
+(d) Obligation for use of recycled plastic content (Refer example 6 in Annexure)
+The Producer shall ensure use of recycled plastic in plastic packaging category-wise as given below namely: -
+Mandatory use of recycled plastic in plastic packaging
+(% of plastic manufactured for the year)
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 25
+Plastic packaging
+category
+2025-26 2026-27 2027-28 2028-29 and onwards
+Category I 30 40 50 60
+Category II 10 10 20 20
+Category III 5 5 10 10
+In cases, where it is not possible to meet the obligation in respect of recycled plastic content on account of statutory
+requirements, the exemption will be granted by Central Pollution Control Board on case-to-case basis. However, in
+such cases, the Producers, Importers & Brand-Owners will have to fulfil its obligation of use of recycled content (in
+quantitative terms) through purchase of certificate of equivalent quantity from such Producers, Importers & BrandOwners who have used recycled content in excess of their obligation. Central Pollution Control Board will develop
+mechanism for such exchange on the centralized online portal.
+
+
+7.3 Importer (I):
+
+(a) Extended Producer Responsibility Target (Refer example 1 to 3 in Annexure)
+Eligible Quantity in MT (Q 2) shall be the average weight of all plastic packaging material and / or plastic packaging
+of imported products (category-wise) imported and sold in the last two financial years (A) plus average quantity of
+pre-consumer plastic packaging in the last two financial years (B) waste minus the annual quantity (C) supplied to the
+entities covered under sub-clause 4 (iii) in the previous financial years as under: -
+Q 2 (in MT) = (A + B) - C
+and the Extended Producer Responsibility target shall be determined, category-wise , as given below namely: -
+Year Extended Producer Responsibility target
+(as a percentage of Q 2 - category-wise)
+I 2021 - 22 25 %
+II 2022 - 23 70 %
+III 2023 - 24 100 %
+The Extended Producer Responsibility target in MT category-wise, as applicable, shall be provided by Importer as
+part of Action Plan on the centralized portal developed by Central Pollution Control Board.
+
+
+(b) Obligation for recycling (Refer example 1 to 3 in Annexure)
+The Importer shall ensure minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+collected under extended producer responsibility Target, category-wise, as given below.
+Minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+(% of extended producer responsibility Target)
+Plastic packaging category 2024-25 2025-26 2026-27 2027-28 and onwards
+Category I 50 60 70 80
+Category II 30 40 50 60
+Category III 30 40 50 60
+Category IV 50 60 70 80
+In case of Category IV plastic packaging category (plastic sheet or like used for packaging and carry bags made of
+compostable plastics), the minimum level of recycling means processing plastic packaging waste for composting
+through industrial composting facilities.
+
+
+
+(c) End of life disposal (refer examples 1 to 3 in Annexure)
+(i) Only those plastics, which cannot be recycled will be sent for end of life disposal such as road construction, waste
+to energy, waste to oil as per relevant guidelines issued by Indian Road Congress or Central Pollution Control Board
+from time to time.
+26 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+(ii) The importer shall ensure end of life disposal of the plastic packaging waste only through methodologies specified
+in rule 5 (1) (b) of Plastic Waste Management Rules, 2016, as amended.
+
+
+
+(d) Obligation for use of recycled plastic content (Refer example 6 in Annexure)
+The Importer shall ensure use of recycled plastic in plastic packaging category-wise as given below.
+Mandatory use of recycled plastic in plastic packaging
+(% of imported plastic for the year)
+Plastic packaging
+category
+2025-26 2026-27 2027-28 2028-29 and onwards
+Category I 30 40 50 60
+Category II 10 10 20 20
+Category III 5 5 10 10
+Any recycled plastic used in imported material shall not be counted towards fulfilment of obligation. The importer
+will have to fulfil its obligation of use of recycled content (in quantitative terms) through purchase of certificate of
+equivalent quantity from such Producers, Importers & Brand-Owners who have used recycled content in excess of
+their obligation. Central Pollution Control Board will develop mechanism for such exchange on the centralized online
+portal.
+
+
+7.4 Brand Owner (BO):
+
+a) Extended Producer Responsibility target (refer examples 1 to 3 in Annexure)
+Eligible Quantity in MT (Q 3) shall be the average weight of virgin plastic packaging material (category-wise)
+purchased and introduced in market in the last two financial years (A) plus average quantity of (B) of pre-consumer
+plastic packaging in the last two financial years as under: -
+Q 3 (in MT) = A + B
+The Extended Producer Responsibility target shall be determined, category-wise , as given below namely: -
+Year Extended Producer Responsibility Target
+(as a percentage of Q3 - category-wise)
+I
+2021 - 22 25 %
+II 2022 - 23 70 %
+III 2023 - 24 100 %
+The Extended Producer Responsibility target in MT category-wise, as applicable, shall be provided by Brand Owner
+as part of the Action Plan on the centralized portal developed by Central Pollution Control Board.
+
+
+(b) Obligation for reuse (refer examples 4 and 5 in Annexure):
+I. The Brand Owner using Category I (rigid) plastic packaging for their products shall have minimum obligation
+to reuse such packaging as given below: -
+Provided that the reuse of Category I rigid plastic packaging in food contact applications shall be subject to regulation
+of Food Safety and Standards Authority of India.
+(II) Minimum obligation to reuse for Category I (rigid plastic packaging).
+Year Target (as percentage of Category I
+rigid plastic packaging in products sold
+annually)
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 27
+A Category I rigid plastic packaging with volume or weight equal or
+more than 0.9 liter or kg but less than 4.9 litres or kg, as the case
+may be
+I 2025 – 26 10
+II 2026 – 27 15
+III 2027-28 20
+IV 2028-29 and onwards 25
+B Category I rigid plastic packaging with volume of weight equal or
+more than 4.9 litres or kg.
+I 2025 – 26 70
+II 2026 – 27 75
+III 2027-28 80
+IV 2028-29 and onwards 85
+
+
+(III) The quantity of rigid packaging reused by brand Owner shall be calculated by reducing virgin plastic
+packaging manufactured/imported/purchased in that year from the sales of the Brand Owner. The brand owner shall
+provide this information on the centralized portal developed by Central Pollution Control Board.
+
+(IV) The quantity of Category I rigid plastic packaging reused shall be reduced from the total plastic packaging
+used under Category I by the obligated entities (Brand Owners).
+III. The quantity of Category I rigid plastic packaging reused during the year 2022 – 2023 and 2023-2024, shall be
+reduced from the total plastic packaging used under Category I.
+
+(c) Obligation for recycling (refer examples 1 to 3 in Annexure):
+The Brand Owner shall ensure minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+collected under Extended Producer Responsibility target, category-wise, as given below.
+Minimum level of recycling (excluding end of life disposal) of plastic packaging waste
+(% of Extended Producer Responsibility Target)
+Plastic packaging category 2024-25 2025-26 2026-27 2027-28 and onwards
+Category I 50 60 70 80
+Category II 30 40 50 60
+Category III 30 40 50 60
+Category IV 50 60 70 80
+In case of Category IV plastic packaging category (plastic sheet or like used for packaging and carry bags made of
+compostable plastics), the minimum level of recycling means processing plastic packaging waste for composting
+through industrial composting facilities.
+(d) End of life disposal (refer examples 1 to 3 in Annexure)
+(i) Only those plastics, which cannot be recycled will be sent for end of life disposal such as road construction, waste
+to energy, waste to oil, as per relevant guidelines issued by Indian Road Congress or Central Pollution Control Board
+from time to time.
+(ii) The Brand Owner shall ensure end of life disposal of the plastic packaging waste only through methodologies
+specified in rule 5 (1) (b) of the Plastic Waste Management Rules, 2016, as amended.
+
+(e) Obligation for use of recycled plastic content (refer examples 6 in Annexure)
+
+(i) The Brand Owner shall ensure use of recycled plastic in plastic packaging, category-wise, as given below namely:
+Mandatory use of recycled plastic in plastic packaging
+28 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+(% of manufactured plastic for the year)
+Plastic packaging
+category
+2025-26 2026-27 2027-28 2028-29 and onwards
+Category I 30 40 50 60
+Category II 10 10 20 20
+Category III 5 5 10 10
+(ii) In cases, where it is not possible to meet the obligation in respect of recycled plastic content on account of
+statutory requirements, the exemption will be granted by Central Pollution Control Board on case-to-case basis.
+However, in such cases, the Producers, Importers & Brand-Owners will have to fulfil its obligation of use of
+recycled content (in quantitative terms) through purchase of certificate of equivalent quantity from such Producers,
+Importers & Brand-Owners who have used recycled content in excess of their obligation. Central Pollution Control
+Board will develop mechanism for such exchange on the centralized online portal.
+(iii) In case, where Brand Owner is also Producer and/or Importer of plastic packaging material, the clause 7.2 and 7.3
+shall also apply for determining their Extended Producer Responsibility targets and obligations as Producer and /or
+Importer, respectively.
+
+
+(7.5) The Extended Producer Responsibility target in MT category-wise, as applicable, shall be provided by all
+Producers, Importers & Brand-Owners as part of Action Plan on the centralized portal developed by Central Pollution
+Control Board.
+
+(7.6) The obligations for reuse, recycling of waste and use of recycled plastic content in packaging shall be
+reviewed every five years based upon available technologies for meeting the Targets specified.
+
+
+(7.7) Extended Producer Responsibility on plastic packaging will promote sustainable packaging, as per guidelines
+prepared by Central Pollution Control Board, inter alia based on the following criteria,
+(i) package designing promoting reuse;
+(ii) package designing amenable for recycling;
+(iii) recycled plastic content in plastic packaging material and; (iv) package designing for environment.
+
+
+(7.8) In case, the obligated entity utilizes plastic packaging which is 100% biodegradable in the ambient
+environment leaving no traces of micro plastics or chemical residue or any other traces having adverse environmental
+and health impacts as certified by regulatory entities Central Pollution Control Board, Bureau of Indian Standards,
+Central Institute of Petrochemicals Engineering & Technology, the Extended Producer Responsibility target will not
+be applicable for such material.
+
+
+
+
+
+
+8. Generation of surplus Extended Producer Responsibility certificates, carry forward and offsetting against
+previous year Extended Producer Responsibility targets and obligations, and sale and purchase of surplus
+Extended Producer Responsibility certificates:
+
+
+(8.1) A Brand Owner who has fulfilled their Extended Producer Responsibility targets, category-wise, can use the
+surplus for the following namely: -
+(i) Off setting previous year shortfall subject to clause 9.5;
+(ii) Carry forward for use in succeeding year;
+(iii) Sell it to other Producers, Importers & Brand-Owners.
+(8.2) Surplus in one category can only be used for off-setting, carry forward and sale in the same category. A
+surplus under reuse can be used for against reuse, recycling and also end of life disposal. A surplus under recycling
+can be used for recycling and end of life disposal. A surplus under end of life disposal cannot be used for reuse or
+recycle.
+
+
+(8.3) Producers, Importers & Brand-Owners can also meet their Extended Producer Responsibility obligations
+under a category by purchasing surplus Extended Producer Responsibility certificates from other Producers, Importers
+& Brand-Owners of the same category.
+
+
+(8.4) Such transactions shall be recorded and submitted by the Producers, Importers & Brand-Owners on the
+online portal while filing annual returns under the Extended Producer Responsibility framework. Central Pollution
+Control Board will develop mechanism for such exchange on the centralized portal.
+
+
+
+
+
+
+
+9. Imposition of Environmental Compensation:
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 29
+
+
+(9.1) Environmental Compensation shall be levied based upon polluter pays principle, with respect to nonfulfilment of Extended Producer Responsibility targets by Producers, Importers &
+Brand Owners, for the prupose of protecting and improving the quality of the environment and preventing,
+controlling and abating environment pollution .
+
+
+(9.2) Central Pollution Control Board shall lay down guidelines for imposition and collection of environment
+compensation on Producers, Importers & Brand-Owners, recyclers and end of life processors, in case of nonfulfilment of obligations set out in these guidelines, and the same shall be notified. The Guidelines for Environmental
+Compensation shall be updated, as required.
+
+(9.3) The Environment Compensation, as applicable, shall be levied by Central Pollution Control Board on the
+Producers, Importers & Brand-Owners operating in more than two states with respect to non-fulfillment of their
+Extended Producer Responsibility targets, responsibilities and obligations in these guidelines.
+
+
+(9.4) The Environment Compensation, as applicable, shall be levied by respective State Pollution Control Board on
+the Producers, Importers & Brand-Owners operating in their jurisdiction (for Producers, Importers & Brand-Owners
+not operating in more than two states/Union Territory‘s), Plastic Waste Processors which includes recyclers and other
+waste processors – waste to energy, waste to oil, co-processors, with respect to non-fulfillment of their Extended
+Producer Responsibility targets or responsibilities and obligations set out under these guidelines. In case, the State
+Pollution Control Board or Pollution Control Committee does not take action in reasonable time, the Central Pollution
+Control Board shall issue directions to the State Pollution Control Board /Pollution Control Committee.
+
+
+(9.5) Payment of environmental compensation shall not absolve the Producers, Importers & Brand-Owners of the
+obligations set out in these guidelines. The unfulfilled Extended Producer Responsibility obligations for a particular
+year will be carried forward to the next year for a period of three years. In case, the shortfall of Extended Producer
+Responsibility obligation is addressed within three years. The environmental compensation levied shall be returned to
+the Producers, Importers & Brand-Owners as given below, namely
+(i) Within one year of levying of EC: 75% return;
+(ii) Within two years 60% return;
+(iii) Within three years 40% return,
+After completion of three years on environmental compensation getting due the entire environmental compensation
+amount shall be forfeited. This arrangement shall allow for collection and recycling of plastic packaging waste by
+Producers, Importers & Brand-Owners in later years as well.
+
+
+
+(9.6) The funds collected under environmental compensation shall be kept in a separate Escrow account by Central
+Pollution Control Board or State Pollution Control Board or Pollution Control Committee. The funds collected shall
+be utilized in collection, recycling and end of life disposal of uncollected and non-recycled or non- end of life disposal
+of plastic packaging waste, on which the environmental compensation is levied. Modalities for utilization of the funds
+for plastic waste management on an annual basis would be recommended by the Committee for Extended Producer
+Responsibility implementation and approved by the Competent Authority in the Ministry.
+
+
+
+
+
+
+10. Role of Producers, Importers & Brand-Owners:
+
+(10.1) The Producers, Importers & Brand-Owners shall have to register through the online centralized portal
+developed by Central Pollution Control Board. The certificate of registration shall be issued using the portal.
+
+
+(10.2) Producers, Importers & Brand-Owners shall provide Action Plan containing information on the Extended
+Producer Responsibility Target, category-wise, where applicable, through the online centralized portal developed by
+Central Pollution Control Board, along with application for registration or renewal of registration under Plastic Waste
+Management Rules, 2016. The Action Plan shall cover tenure of the Registration as per the provisions of Plastic
+Waste Management Rules, 2016. The standard operating procedure for registration and the action plan pro forma shall
+be developed by Central Pollution Control Board as per these guidelines.
+
+
+(10.3) Brand Owner covered under clause 4 (iii) shall provide details of plastic packaging purchased from Producers
+and/or Importers covered under clause 4 (i) and 4 (ii) separately. The quantities attributed to each Producer and
+Importer covered under clause 4 (i) and 4 (ii) obligated upon Brand Owner shall be deducted from the obligation of
+Producers and Importers. The record of such purchase including category-wise quantity purchased, shall be
+maintained separately by Brand Owner.
+
+
+(10.4) The Producers and Importers covered under clauses 4 (i) and 4 (ii) will maintain the record of the quantity of
+plastic packaging material made available to Brand Owner covered under clause 4 (iii). The record of such sale
+including category-wise quantity sold, will be maintained separately by Producers and Importers. In case such records
+are not maintained, they will have to fulfil the complete Extended Producer Responsibility obligation. The online
+platform shall cross-check the declaration of transactions among Producers, Importers & Brand-Owners.
+30 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+
+
+(10.5) In order to develop a separate waste stream for collection of plastic packaging waste for directly fulfilling
+Extended Producer Responsibility obligations, the Producers, Importers & Brand-Owners may operate schemes such
+as deposit refund system or buy back or any other model. This will prevent mixing of plastic packaging waste with
+solid waste.
+
+
+(10.6) The Producers, Importers & Brand-Owners shall file annual returns on the plastic packaging waste collected
+and processed towards fulfilling obligations under Extended Producer Responsibility with the Central Pollution
+Control Board or concerned State Pollution Control Board or Pollution Control Committee as per pro forma
+prescribed by Central Pollution Control Board by the 30th June of the next financial year. Information on the reuse
+and/or recycled content used for packaging purposes will also be provided. The details of the registered recyclers
+from whom the recycled plastic has been procured will also be provided.
+11. Role of Plastic Waste Processors (Recyclers or Other Waste Processors including industrial composting
+facilities)
+
+
+(11.1) All plastic waste processors shall have to register with concerned State Pollution Control Board or Pollution
+Control Committee in accordance with provision 13(3) of Plastic Waste Management Rules, 2016 on the centralized
+portal developed by Central Pollution Control Board. Central Pollution Control Board shall lay down uniform
+procedure for registration within three months of the publication of these guidelines.
+
+
+(11.2) The Plastic waste processors shall submit annual returns after end of every financial year by 30th April of the
+next financial year on the quantity of plastic waste processed category-wise as per prescribed pro forma on the
+centralized portal developed by Central Pollution Control Board.
+
+
+(11.3) The total quantity of plastic waste processed by plastic waste processors and attributed to Producers, Importers
+& Brand-Owners, on an annual basis, will be made available on the centralized portal developed by Central Pollution
+Control Board as also on the website of Plastic waste processors.
+
+
+(11.4) In case, at any stage it is found that the information provided by the plastic waste processor is false, the plastic
+waste processor shall be debarred by State Pollution Control Board, as per procedure laid down by Central Pollution
+Control Board , from operating under the Extended Producer Responsibility framework for a period of one year.
+
+
+(11.5) Only plastic waste processors registered under Plastic Waste Management Rules, 2016, as amended, shall
+provide certificates for plastic waste processing, except in case of use of plastic waste in road construction. In case
+where plastic waste is used in road construction the Producers, Importers & Brand-Owners shall provide a selfdeclaration certificate in pro forma developed by Central Pollution Control Board. The certificate provided by only
+registered plastic waste processors shall be considered for fulfilment of Extended Producer Responsibility obligations
+by Producers, Importers & Brand-Owners.
+
+
+(11.6) The pro forma for the certificate shall be developed by Central Pollution Control Board. In no case, the amount
+of plastic packaging waste recycled by the enterprise shall be more than installed capacity of the enterprise. The
+certificates will be for plastic packaging category-wise and shall include GST data of the enterprise.
+
+
+(11.7) The certificate for plastic packaging waste provided by registered plastic waste processors shall be in the name
+of registered Producers, Importers & Brand-Owners or Local authorities, as applicable, based upon agreed modalities.
+Central Pollution Control Board will develop mechanism for issuance of such certificate on the centralized portal.
+
+
+(11.8) The Plastic Waste Processors undertaking end-of-life disposal of plastic packaging waste viz. waste to energy,
+waste to oil, cement kilns (co processing) shall provide information on an annual basis as per prescribed pro forma, on
+the centralized portal developed by Central Pollution Control Board. These entities shall ensure the disposal of plastic
+packaging waste as per relevant rules, guidelines framed by regulatory bodies in an environmentally sound manner.
+
+
+
+
+12. Role of Central Pollution Control Board
+
+(12.1) The Central Pollution Control Board shall register Producers, Importers & Brand-Owners who are operating in
+more than two states and plastic waste processors, through online portal. Central Pollution Control Board shall
+prescribe the standard operating procedure for registration of Producers, Importers & Brand-Owners under Plastic
+Waste Management Rules, 2016.
+
+
+(12.2) The Central Pollution Control Board may charge fee for processing of applications for registration and an
+annual fee for processing of returns, as per procedure prescribed by CPCB. In case, where Producers, Importers &
+Brand-Owners, are operating in the jurisdiction of a State Pollution Control Board or Pollution Control Committee,
+the Central Pollution Control Board as per guidelines so decided, will share the application fee with the concerned
+State Pollution Control Board or Pollution Control Committee.
+
+
+(12.3) The registration shall be done within two weeks from the submission of a complete application online by the
+Producers, Importers & Brand-Owners. The tenure of registration shall be as per Plastic Waste Management Rules,
+2016.
+
+
+(12.4) Central Pollution Control Board by itself or through a designated agency shall verify compliance of Producers,
+Importers & Brand-Owners through inspection and periodic audit, as deemed appropriate. Central Pollution Control
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 31
+Board, as required, can also verify compliance of Plastic Waste Processors through inspection and periodic audit. In
+case of plastic waste processors and Producers, Importers & Brand-Owners operating in a State or Union Territory,
+Central Pollution Control Board may, if required, direct State Pollution Control Board or Pollution Control
+Committee to take action.
+
+
+(12.5) Central Pollution Control Board shall publish the list of Producers, Importers & Brand-Owners who have failed
+to meet Extended Producer Responsibility targets and obligations in the previous financial year, on an annual basis,
+by 30th September of the next financial year.
+
+
+(12.6) The Central Pollution Control Board will establish a mechanism to ensure a regular dialogue between relevant
+stakeholders involved in the fulfilment of extended producer responsibility obligations for plastics under the Plastic
+Waste Management Rule, 2016.
+
+
+(12.7) The Central Pollution Control Board shall carry out a compositional survey of collected mixed municipal waste
+to determine the share of plastic waste as well as different categories of plastics packaging material on a half-yearly
+basis.
+
+
+(12.8) The Central Pollution Control Board shall carry out review of technologies related to plastic packaging and
+plastic waste management for techno-economic viability and feasibility specifically with respect to clause 
+
+
+
+7.6.
+
+
+
+13. Role of State Pollution Control Board or Pollution Control Committee:
+
+
+
+(13.1) The concerned State Pollution Control Board or Pollution Control Committee shall register Producers,
+Importers & Brand-Owners (operating in one or two states) and plastic waste processors, through the online portal
+developed by Central Pollution Control Board. Provision for registration shall be made on the Extended Producer
+Responsibility portal. State Pollution Control Board or Pollution Control Committee by itself or through a designated
+agency shall verify compliance of Producers, Importers & Brand-Owners through inspection and periodic audit, as
+deemed appropriate, of Producers, Importers & Brand-Owners as well as plastic waste processors in their jurisdiction
+as per the Plastic Waste Management Rule, 2016.
+
+(13.2) The State Pollution Control Board or Pollution Control Committee shall bring out a list of entities (Exception
+Report) who have not fulfilled their Extended Producer Responsibility responsibilities on annual basis and publish the
+same on their website. The State Pollution Control Board or Pollution Control Committee shall submit the Annual
+Reports submitted by Producers, Importers & Brand-Owners and plastic waste processors in their jurisdiction to
+Central Pollution Control Board and upload the same on the online Extended Producer Responsibility portal.
+
+(13.3) State Pollution Control Board or Pollution Control Committee will establish a mechanism to ensure a regular
+dialogue between relevant stakeholders involved in the fulfilment of extended producer responsibility obligations
+under the Plastic Waste Management Rule, 2016.
+
+
+(13.4) State Pollution Control Board or Pollution Control Committee shall carry out a compositional survey of
+collected mixed municipal waste to determine the share of plastic waste as well as different categories of plastics
+packaging material on a half-yearly basis.
+
+
+14. Plastic Packaging Waste Collection System by Producers, Importers & Brand-Owners
+
+(14.1) Producers, Importers & Brand-Owners while fulfilling their Extended Producer Responsibility obligations may
+develop collection and segregation infrastructure of plastic packaging waste, as required, based on the category of
+plastics. It may include the following based on implementation modality of Extended Producer Responsibility
+adopted by Producers, Importers & Brand-Owners: -(a) establish waste plastic collection points and Material
+Recovery Facilities (MRFs);
+(b) ensure the collection of the plastic packaging waste from the collection points, with a frequency that is
+proportionate to the area covered and the volume;
+(c) offer the collection of plastic, from the entities like urban local bodies, gram panchayats, other public authorities
+or third parties carrying out waste management, and provide for the collection from all entities that have made use of
+that offer; provide for the necessary practical arrangements for collection and transport;
+(d) ensure that the plastic packaging waste collected from the collection points are subsequently subject to recycling
+in a registered facility by a recycler or its permitted end use in the designated manner.
+
+
+(14.2) Producers, Importers & Brand-Owners may ensure the network of collection points taking into account
+population size, expected volume of plastic or packaging waste, accessibility and vicinity to end-users, not being
+limited to areas where the collection and subsequent management is profitable.
+(14.3) The entities involved in waste collection will hand over the waste for treatment and recycling or for identified
+end uses.
+32 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+
+(14.4) Participation of voluntary collection points - voluntary collection points will hand over plastic packaging waste
+to the Producers, Importers & Brand-Owners or third party agencies acting on their behalf with a view to their
+treatment and recycling or their identified end use.
+15. Fulfilment of Extended Producer Responsibility Obligations
+The Producers, Importers & Brand-Owners shall have to provide the details of recycling certificate only from
+registered recyclers along with the details of quantity sent for end of life disposal, by 30th June of next financial year
+while filing annual returns on the online portal. The details provided by Producers, Importers & Brand-Owners and
+registered plastic waste processors will be cross-checked by the online portal. In case of difference, the lower figure
+would be considered towards fulfilment of Extended Producer Responsibility obligation of Producers, Importers &
+Brand-Owners. The certificates shall be subject to verification by Central Pollution Control Board or State Pollution
+Control Board or Pollution Control Committee, as the case may be.
+
+
+
+16. Centralized Online Portal
+(16.1) Central Pollution Control Board shall establish an online system for the registration as well as for filing of
+annual returns by Producers, Importers & Brand-Owners, plastic waste processors of plastic packaging waste by 31st
+March 2022:-
+
+(16.2) The online system developed by Central Pollution Control Board for the registration as well as for filing of
+returns by Producers, Importers & Brand-Owners shall reflect the plastic packaging material introduced in the market
+Producers, Importers & Brand-Owners in a financial year. It shall also reflect the details regarding the audit of the
+Producers, Importers & Brand-Owners as well as recyclers or other waste processors of plastic packaging waste.
+
+
+(16.3) The State Pollution Control Board or Pollution Control Committee shall also use the centralized portal
+developed by Central Pollution Control Board for registration of Producers, Importers & Brand-Owners as well as
+recyclers/waste processors. The centralized portal would act as the single point data repository with respect to orders
+and guidelines related to implementation of Extended Producer Responsibility for plastic packaging under Plastic
+Waste Management Rule, 2016 Producers, Importers & Brand-Owners may, if they so desire, facilitate the
+development of online web portal or platform.
+
+
+(16.3) Till the online web portal is developed all activities related to implementation of Extended Producer
+Responsibility under the Plastic Waste Management Rules, 2016 will be done in an offline manner.
+
+
+
+
+17. Monitoring
+State Pollution Control Board or Pollution Control Committee shall submit annual report on Extended Producer
+Responsibility portal with respect to fulfilment of Extended Producer Responsibility by Producers, Importers &
+Brand-Owners (which include manufacturers of plastic packaging material) and plastic waste processors in the
+State/Union Territory to Central Pollution Control Board. The report shall also be submitted to the State Level
+Monitoring Committee constituted under the Plastic Waste Management Rules, 2016. State Pollution Control Board
+or Pollution Control Committee shall also submit annual report with respect to recyclers or end of life disposal in the
+State or Union Territory to Central Pollution Control Board by 31st July of the next year.
+
+
+
+
+18. Committee for Extended Producer Responsibility under PWM Rules
+
+(18.1) A committee shall be constituted by the Central Pollution Control Board under chairpersonship of Chairman,
+Central Pollution Control Board to recommend measures to Ministry of Environment, Forest and Climate Change for
+effective implementation of Extended Producer Responsibility including amendments to Extended Producer
+Responsibility guidelines. The committee shall monitor the implementations of Extended Producer Responsibility and
+also take such measures as required for removal of difficulties. The Committee shall also be tasked with the guiding
+and supervision of the online portal including approval of requisite forms or pro forma.
+
+
+(18.2) The committee shall comprise of representative from concerned line Ministries/Departments such as Ministry
+of Housing and Urban Affairs, Ministry of Micro, Small and Medium Enterprises, Department of Drinking Water and
+Sanitation, Department of Chemical and Petrochemicals; Bureau of Indian Standards, three State Pollution Control
+Board or Pollution Control Committee, Central Institute of Plastic Engineering and Technology (CIPET), National
+Environmental Engineering Research Institute (NEERI), and three industry associations, and any other invitee as
+decided by the chairperson of the committee.
+ANNEXURE
+Examples for Clause 7
+Extended Producer Responsibility Target and Minimum level of recycling of plastic packaging waste
+[Refer Clause 7.2 (a), (b) & (c), Clause 7.3 (a), (b) & (c), and Clause 7.4 (a), (b) & (c)]
+Example 1:
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण 33
+Year 2022-23
+Plastic packaging introduced in the market category-wise
+(Category II Flexible plastic packaging)
+100 MT
+Extended Producer Responsibility Target @ 70 % 70 MT
+Minimum level of recycling of plastic packaging waste
+collected under Extended Producer Responsibility - no
+threshold has been prescribed
+Quantity of plastic packaging waste collected under
+Extended Producer Responsibility and recycled as per
+actuals
+Quantity of plastic packaging waste collected under
+Extended Producer Responsibility and used for energy
+recovery, co-processing, road construction, waste to oil
+etc. as per actuals
+Example 2:
+Year 2024-25
+Plastic packaging introduced in the market category-wise
+(Category II Flexible plastic packaging)
+100 MT
+Extended Producer Responsibility Target @ 100 % 100 MT
+Minimum level of recycling of plastic packaging waste
+collected under Extended Producer Responsibility @ 30%
+Minimum 30 MT of plastic packaging waste collected
+under Extended Producer Responsibility needs to be
+recycled.
+Remaining plastic packaging waste collected(Maximum
+70 MT) may be used for energy recovery, co-processing,
+road construction, waste to oil etc.
+Example 3:
+Year 2028-29
+Plastic packaging introduced in the market category-wise
+(Category II Flexible plastic packaging)
+100 MT
+Extended Producer Responsibility Target @ 100 % 100 MT
+Minimum level of recycling of plastic packaging waste
+collected under Extended Producer Responsibility @ 60 %
+Minimum 60 MT of plastic packaging waste collected
+under Extended Producer Responsibility needs to be
+recycled.
+Remaining plastic packaging waste collected(Maximum
+40 MT) may be used for energy recovery, co-processing,
+road construction, waste to oil etc.
+Reuse
+[Refer Clause 7.4 (b)]
+Example 4:
+Year 2025 – 26 (Minimum obligation for reuse comes into effect)
+Plastic packaging introduced in the market category-wise
+(Category I Rigid Plastic Packaging)
+100 MT
+Reuse of Category I rigid plastic packaging with volume
+or weight equal or more than 0.9 litres or
+15 MT
+34 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+kilogrammes bUnion Territory less than 4.9 litres or
+kilogrammes
+(Reuse @ 15 %; minimum obligation for reuse 10 %)
+Fresh plastic packaging introduced (A) 85 MT
+Extended Producer Responsibility target for compliance
+@ 100% of (A)
+85 MT
+Minimum level of recycling of Category I plastic
+packaging waste collected under Extended Producer
+Responsibility @ 60%
+Minimum 51 MT of plastic packaging waste collected
+under Extended Producer Responsibility needs to be
+recycled.
+A maximum of 34 MT plastic packaging waste collected
+may be used for energy recovery, co-processing, road
+construction, waste to oil etc.
+Example 5:
+For Year 2022 - 23
+Plastic packaging introduced in the market category-wise
+(Category I Rigid Plastic Packaging)
+100 MT
+Reuse of Category I rigid plastic packaging with volume
+or weight equal or more than 0.9 litres or
+kilogrammes bUnion Territory less than 4.9 litres or
+kilogrammes
+10 MT
+Fresh plastic packaging introduced (A) 90 MT
+Extended Producer Responsibility Target @ 35 % of (A) 31.5 MT
+Use of recycled plastic content
+[Refer Clause 7.2 (d), 7.3 (d)]
+Example 6:
+Year 2025-26
+Plastic packaging introduced in the market category-wise
+(Category II Flexible plastic packaging)
+100 MT
+Extended Producer Responsibility Target as per clause 5.1
+@ 100 %
+100 MT
+Minimum content of recycled plastic in packaging @ 10% 10 MT of plastic content in the packaging should be
+recycled plastic
+90 MT of virgin plastic content in packaging
+‟
+[F. No. 17/2/2001 – Part I - HSMD]
+NARESH PAL GANGWAR, Addl. Secy.
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part II Section 3, Sub-Section (i)
+vide number G.S.R 320 (E) dated the 18th March, 2016 and subsequently amended vide notification numbers
+G.S.R 285 (E) dated the 27th March, 2018, G.S.R. 571 (E) dated the 12th August, 2021 and G.S.R. 647 (E)
+dated the 17th September, 2021.
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+and Published by the Controller of Publications, Delhi-110054.
+2774 GI/2023 (1)
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. D. L.-33004/99
+xxxGIDHxxx
+xxxGIDExxx
+असाधारण
+EXTRAORDINARY
+भाग II—खण् ड 3—उप-खण् ड (i)
+PART II—Section 3—Sub-section (i)
+प्राजधकार से प्रकाजित
+PUBLISHED BY AUTHORITY
+पर्ाावरण, वन और िलवार्ु पररवतान मंत्रालर्
+अजधसूचना
+नई दिल्ली, 27 अप्रैल, 2023
+सा.का.जन. 318(अ).—प् लाजस्ट्िक अपजिष् ि प्रबंधन जनर्म, 2016 (जिसेइसमेंइसके पश् चात्उक् त जनर्म कहा
+गर्ा है) तारीख 18 माचा, 2016 की अजधसूचना संख् र्ा सा.का.जन. 320 (अ) केअधीन अजधसूजचत दकए गए थे;
+और, उक् त जनर्मों की अनुसूची II मेंजवजनर्िाष् ि दििा-जनिेिों के अधीन कें द्रीर् प्रिूषण जनर्ंत्रण बोडा द्वारा
+जवकजसत दकए गए कें द्रीकृ त ऑनलाइन पोिाल पर रजिस्ट् रीकरण करातेसमर्, जनकार्ों को कं पनी की पैन संख् र्ा, िीएसिी
+संख् र्ा, सीआईएन संख् र्ा तथा प्राजधकृ त व् र्जि अथवा प्रजतजनजध की आधार संख् र्ा और पैन संख् र्ा एवं र्थापेजित अन् र्
+आवश् र्क सूचना उपलब् ध करानी होगी;
+और, सुिासन (सामाजिक कल् र्ाण, नवाचार, ज्ञान) केजलए आधार अजधप्रमाणन जनर्म, 2020 केजनर्म 5 के
+साथ परित आधार (जवत् तीर् और अन् र् सहाजर्दकर्ों, प्रसुजवधाओं और सेवाओं का लजयर्त पररिान) अजधजनर्म, 2016 की
+धारा 4 की उप-धारा (4) के खंड (ख) केउप-खंड (ii) केअनुसरण मेंइलेक् रॉजनकी एवं सूचना प्रौद्योजगकी मंत्रालर् ने
+पर्ाावरण, वन और िलवार्ुपररवतान मंत्रालर् को उक् त दििाजनिेिों केपैरा 6 केउप-पैरा(1) केखंड (क) मेंजवजनर्िाष् ि
+दकए गए अनुसार, कें द्रीर् प्रिूषण जनर्ंत्रण बोडा द्वारा जवकजसत कें द्रीकृ त पोिाल पर, हां/नहीं अजधप्रमाणन सुजवधा का
+उपर्ोग करतेहुए, उत् पािकों, आर्ातकों, ब्ांड स्ट् वाजमर्ों और प् लाजस्ट्िक अपजिष् ि प्रसंस्ट् करणकतााओं केरूप मेंजनवाजसर्ों के
+रजिस्ट् रीकरण करनेकेप्रर्ोिन से, स्ट् वैजछिक आधार पर आधार अजधप्रमाणन करना अनुज्ञात दकर्ा है।
+अत; अब, के न् द्रीर् सरकार, पर्ाावरण (संरिण) जनर्म, 1986 केजनर्म 5 के उप-जनर्म (4) के साथ परित
+पर्ाावरण (संरिण) अजधजनर्म, 1986 (1986 का 29) की धारा 3, धारा 6 और धारा 25 द्वारा प्रित् त िजिर्ों का प्रर्ोग
+करतेहुए, प् लाजस्ट्िक अपजिष् ि प्रबंधन जनर्म, 2016 का और संिोधन करनेहेतुजनम् नजलजखत जनर्म बनाती हैअथाात्:-
+सं. 256] नई दिल्ली, बृहस्ट् पजतवार, अप्रैल 27, 2023/वैिाख 7, 1945
+No. 256] NEW DELHI, THURSDAY, APRIL 27, 2023/VAISAKHA 7, 1945
+सी.जी.-डी.एल.-अ.-27042023-245496
+CG-DL-E-27042023-245496
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+1. संजिप्त नाम और प्रारंभ.- इन जनर्मों का संजिप् त नाम प्लाजस्ट्िक अपजिष्ट प्रबंधन (संिोधन) जनर्म, 2023 है।
+(2) र्ेरािपत्र मेंइनकेप्रकािन की तारीख सेप्रवृत् त होंगे।
+2. प् लाजस्ट्िक अपजिष् ि प्रबंधन जनर्म, 2016 (जिसेइसमेंइसके पश् चात्उक् त जनर्म कहा गर्ा है) केजनर्म 10 के,
+उपजनर्म (5) में, उपबंध में, िोनों स्ट् थानों पर आनेवाले‘2023’ अंकों केस्ट् थान पर, क्रमि: ‘2024’ अंक रखेिाएंगे।
+3. उक् त जनर्मों के, जनर्म 11 के, उप जनर्म (1) में, खंड (क) में, उप-खंड (iii) के पश् चात्, जनम् नजलजखत खंड
+अंतस्ट् थाजपत दकर्ा िाएगा, अथाात्:- ‘’िोस प् लाजस्ट्िक पैके जिंग केजलए’’
+4. उक् त जनर्मों के, जनर्म 13 में,-
+(i) उप-जनर्म (2) में, ‘’र्ा रजिस्ट् रीकरण केनवीकरण केजलए’’ िब् िों का लोप दकर्ा िाएगा;
+(ii) उप-जनर्म (9) केस्ट् थान पर, जनम्नजलजखत उप-जनर्म रखा िाएगा, अथाात्:-
+“9 (क) इस जनर्म केअधीन अनुित् त दकर्ा गर्ा रजिस्ट् रीकरण जवद्यमान जवस्ट् ताररत उत् पािक उत् तरिाजर्त् व
+रजिस्ट् रीकरण के अधीन उत् पािकों, आर्ातकों और ब्ांड स्ट् वाजमर्ों के अनुरोध पर ही पररवर्तात दकर्ा
+िाएगा,
+(ख) इस जनर्म केअधीन प्रिान दकर्ा गर्ा रजिस्ट् रीकरण एक वषाकी अवजध केजलए वैध होगा, िब त ब दक
+वापस, जनलंजबत र्ा रद्द न दकर्ा िाए और तिुपरांत तीन वषाकेजलए अनुित् त दकर्ा िाएगा।‘’
+5. उक् त जनर्मों की, अनुसूची II में,-
+(i) पैरा 6 मेंखंड (6.6) केस्ट्थान पर, जनम्नजलजखत खंड रखा िाएगा, अथाात्:-
+‘‘ 6.6 रजिस्ट् रीकरण करातेसमर् इकाईर्ों को कं पनी केमामलेमेंपैन संख् र्ा, िीएसिी संख् र्ा, सीआईएन संख् र्ा
+िेनी होगी, और जनकार् आधार संख् र्ा िेसकें गे, और प्राजधकृ त व्यजि र्ा प्रजतजनजध की पैन संख् र्ा और र्था
+अपेजित कोई अन्र् आवश्र्क सूचना प्रिान करनी होगी।"
+(ii) पैरा 10 में, खंड (10.6) में, जनम् नजलजखत उपबंध अंतस्ट् थाजपत दकर्ा िाएगा, अथाात्:-
+“परंतु, जवत् तीर् वषा 2022-23 केजलए वार्षाक जववरणी फाइल करनेकी अंजतम तारीख 31 अक् तूबर 2023
+होगी।‘’
+(iii) पैरा 11 में, खंड (11.2) में, जनम् नजलजखत उपबंध अंतस्ट् थाजपत दकर्ा िाएगा, अथाात्:-
+“परंतुजवत् तीर् वषा2022-23 केजलए वार्षाक जववरणी फाइल करनेकी अंजतम तारीख 31 िुलाई 2023 होगी।
+[फा. सं. 12/31/2023-एचएसएम]
+नरेि पाल गंगवार अपर सजचव
+रिप् पणी : मूल जनर्म भारत केरािपत्र में, संख्र्ा सा.का.जन. 320 (अ), तारीख 18 माचा, 2016 द्वारा प्रकाजित दकए
+गए थेऔर तिनंतर इनमेंअजधसूचना संख्र्ा सा.का.जन. 285 (अ), तारीख 27 माचा, 2018, अजधसूचना
+संख्र्ा सा.का.जन. 571 (अ), तारीख 12 अगस्ट्त, 2021, अजधसूचना संख्र्ा सा.का.जन. 647 (अ), तारीख 17
+अगस्ट्त, 2021 केद्वारा संिोधन दकर्ा गर्ा था और इनमेंअजधसूचना संख्र्ा सा.का.जन. 133 (अ), तारीख 16
+फरवरी, 2022 द्वारा और संिोधन दकर्ा गर्ा तथा अजधसूचना संख्र्ा सा.का.जन. 522 (अ), तारीख 6 िुलाई
+2022 द्वारा अंजतम संिोधन दकर्ा गर्ा था।
+[भाग II—खण् ड 3(i)] भारत का रािपत्र : असाधारण 3
+MINISTRY OF ENVIRONMENT, FOREST AND CLIMATE CHANGE
+NOTIFICATION
+New Delhi, the 27th April, 2023
+G.S.R. 318(E).—Whereas, the Plastic Waste Management Rules, 2016, (hereinafter referred to as the said
+rules) were notified vide notification number G.S.R. 320 (E), dated the 18th March, 2016;
+And Whereas, while registering on the centralized online portal developed by the Central Pollution Control
+Board, vide the guidelines specified in Schedule II of the said rules, the entities shall have to provide PAN Number,
+GST Number, CIN Number of the company and Aadhar Number and PAN Number of authorized person or
+representative and any other necessary information as required.
+And Whereas in pursuance of sub-clause (ii) of clause (b) of sub-section (4) of section 4 of the Aadhaar
+(Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 read with rule 5 of the Aadhaar
+Authentication for Good Governance (Social Welfare, Innovation, Knowledge) Rules, 2020, the Ministry of
+Electronics and Information Technology has allowed the Ministry of Environment, Forest & Climate Change, to
+perform Aadhaar authentication on voluntary basis, for the purpose of registration of residents as producers, importers,
+Brand owners and plastic Waste processors, using Yes/no authentication facility, on the centralized portal developed
+by the Central Pollution Control Board, as specified in clause (a) of sub-para (1) of para 6 of the said guidelines.
+Now, therefore, in exercise of the powers conferred by sections 3, 6, and 25 of the Environment (Protection)
+Act 1986 (29 of 1986) read with sub-rule (4) of rule 5 of the ,
+Environment (Protection) Rules, 1986, the Central Government hereby makes the following rules further to
+amend the Plastic Waste Management Rules, 2016, namely :-
+1. Short title and commencement.- (1) These rules may be called the Plastic Waste Management (Amendment)
+Rules, 2023.
+(2) They shall come into force from the date of their publication in the Official Gazette.
+2. In the Plastic Waste Management Rules, 2016, (hereinafter referred to as the said rules), in rule 10, in the subrule (5), in the provision, for the figures “2023” occurring at both places, the figures “2024” shall respectively be
+substituted.
+3. In said rules, in rule 11, in sub-rule (1), in clause (a), after sub-clause (iii) , the following clause shall be inserted,
+namely:- “ for rigid plastic packaging “
+4. In the said rules, in rule 13,-
+(i) in sub-rule (2), the words “or for renewal of registration” shall be omitted;
+(ii) for sub-rule (9), the following sub-rule shall be substituted, namely :-
+“9(a) The registration granted under this rule shall be changed only on the request of Producers, Importers
+& Brand owners, under the existing Extended Producer Responsibility registration ,
+(b) The registration granted under this rule shall be valid for a period of one year, unless revoked,
+suspended or cancelled and shall subsequently be granted for three years.”
+5. In the said rules, in Schedule II,-
+(i) in paragraph 6 for clause (6.6), the following clause shall be substituted, namely :-
+“6.6 While registering, the entities shall have to provide PAN Number, GST Number, CIN Number in case
+of company, and the entities may provide Aadhar Number, and shall provide PAN Number of authorized
+person or representative and any other necessary information as required.”
+(ii) in paragraph 10, in clause (10.6), the following provision shall be inserted, namely :-
+“Provided that the last date for filing of annual returns shall be the 31
+st October 2023 for the financial
+year 2022-2023.
+(iii) In paragraph 11, in clause (11.2), the following provision shall be inserted, namely :-
+“Provided that the last date for filing of annual returns shall be the 31st July 2023 for the financial
+year 2022-2023.
+ [F. No. 12/31/2023-HSM]
+NARESH PAL GANGWAR , Addl. Secy.
+Note: The principal rules were published in the Gazette of India, vide number G.S.R 320 (E), dated the 18th March,
+2016 and subsequently amended, vide notification number G.S.R 285 (E), dated the 27th March, 2018, vide
+notification number G.S.R. 571 (E), dated the 12th August`, 2021, vide notification number G.S.R. 647(E),
+dated the 17th August, 2021, further amended vide notification number G.S.R. 133 ( E), dated the 16th
+February 2022 and last amended, vide notification number G.S.R. 522 ( E), dated the 6th July 2022
