@@ -11,20 +11,6 @@ Rules text (rules.txt) is split into clauses.
 A question is matched to the most relevant clauses (TF-IDF retrieval).
 The matched clauses are shown as sources.
 Optional: IBM Granite answers using only those clauses and cites them.
-Run it
-pip install -r requirements.txt
-streamlit run app.py
-Put your rules text in rules.txt, with a blank line between clauses (or upload a .txt in the sidebar).
-Without an API key the app runs in retrieval-only mode (shows matching clauses).
-To enable Granite answers, set an HF_TOKEN (Hugging Face) or watsonx.ai credentials as environment variables. Never commit keys to GitHub.
-Responsible AI
-Fairness: uses only the rule text provided.
-Transparency: every answer shows its source clauses.
-Ethics: says "I could not find this in the provided rules" instead of guessing. Not legal advice.
-Privacy: no personal data is collected or stored.
-Files
-app.py - Streamlit app
-rules.txt - rules text used for retrieval
-requirements.txt - Python packages
+
 
 
