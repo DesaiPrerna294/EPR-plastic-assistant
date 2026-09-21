@@ -1,5 +1,5 @@
 """
-EPR & Plastic Packaging Assistant  (SDG 12: Responsible Consumption & Production)
+EPR & Plastic Packaging Assistant  (SDG 12 primary; also SDG 11 and SDG 14)
 A small RAG demo: retrieves the most relevant rule clauses, then asks IBM Granite
 to answer ONLY from them and cite the source.
 
@@ -98,12 +98,17 @@ def ask_granite(question, hits, provider):
 # ---------- UI ----------
 st.set_page_config(page_title="EPR Plastic Packaging Assistant", page_icon="♻️")
 st.title("♻️ EPR & Plastic Packaging Assistant")
-st.caption("SDG 12 · RAG + IBM Granite · Answers come only from the rules you load.")
+st.caption("RAG + IBM Granite · Answers come only from the rules you load.")
+c1, c2, c3 = st.columns(3)
+c1.info("**SDG 12**\nResponsible Consumption & Production (primary)")
+c2.info("**SDG 11**\nSustainable Cities: better waste management")
+c3.info("**SDG 14**\nLife Below Water: less plastic reaching waterways")
 
 with st.sidebar:
     st.header("Settings")
     provider = st.radio("Granite via", ["Hugging Face", "watsonx.ai"])
     uploaded = st.file_uploader("Upload rules (.txt)", type=["txt"])
+    st.markdown("**SDGs supported**\n- SDG 12 (primary)\n- SDG 11\n- SDG 14")
     st.markdown("**Responsible AI**\n- Answers cite source clauses\n- Says 'not found' instead of guessing\n- No personal data used\n- Not legal advice")
 
 if uploaded:
@@ -122,7 +127,7 @@ vec, matrix = build_index(tuple(chunks))
 st.success(f"Loaded {len(chunks)} rule sections.")
 
 examples = [
-    "Which producers need to register for EPR?",
+    "Which entities must register on the centralized portal?",
     "What are the recycling targets?",
     "What applies to multilayer plastic packaging?",
 ]
